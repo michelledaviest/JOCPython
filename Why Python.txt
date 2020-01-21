@@ -1,0 +1,3 @@
+Why python? 
+long development time with compiled langauges - write/compile/test/write/re-compile
+writing python unit tests easier? 
